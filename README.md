@@ -14,6 +14,8 @@ Provides hints by showing the wrong guesses made so far.
 
 Simple, interactive command-line interface.
 
+-->To run the game on terminal use command- python final.py
+
 OUTPUT
 
 ![hangman-game-1](https://github.com/user-attachments/assets/8c7d0fd5-1448-4694-aff1-2f10b18cf10b)
